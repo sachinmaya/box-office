@@ -7,6 +7,8 @@ import reportWebVitals from "./reportWebVitals";
 import "./index.css";
 import { ReactQueryProvider } from "./Provider";
 ///https://www.youtube.com/watch?v=b88Z5POQBwI
+// REACT_APP_API_KEY = b5347c780b99c35d84e6b3a5d8719791
+// REACT_APP_API = https://api.themoviedb.org/3
 const container = document.getElementById("root")!;
 const root = createRoot(container);
 
