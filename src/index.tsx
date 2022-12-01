@@ -10,6 +10,15 @@ import { ReactQueryProvider } from "./Provider";
 // REACT_APP_API_KEY = b5347c780b99c35d84e6b3a5d8719791
 // REACT_APP_API = https://api.themoviedb.org/3
 // https://levelup.gitconnected.com/using-typescript-extending-generic-types-2c18459934ea
+
+// https://virtuoso.dev/
+// https://reactrouter.com/
+// https://emotion.sh/
+// https://www.typescriptlang.org/docs/
+// https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/
+// https://react-typescript-cheatsheet.netlify.app/
+// https://redux-toolkit.js.org/
+
 const container = document.getElementById("root")!;
 const root = createRoot(container);
 
