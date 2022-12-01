@@ -9,6 +9,7 @@ import { ReactQueryProvider } from "./Provider";
 ///https://www.youtube.com/watch?v=b88Z5POQBwI
 // REACT_APP_API_KEY = b5347c780b99c35d84e6b3a5d8719791
 // REACT_APP_API = https://api.themoviedb.org/3
+// https://levelup.gitconnected.com/using-typescript-extending-generic-types-2c18459934ea
 const container = document.getElementById("root")!;
 const root = createRoot(container);
 
