@@ -6,7 +6,7 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import "./index.css";
 import { ReactQueryProvider } from "./Provider";
-
+///https://www.youtube.com/watch?v=b88Z5POQBwI
 const container = document.getElementById("root")!;
 const root = createRoot(container);
 
